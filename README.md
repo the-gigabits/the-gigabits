@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @the-gigabits
-- 👀 I’m interested in getting back into code, developing better products and organisations, improving diversity & inclusion
+- 👋 Hi, I’m Gabi.
+- 👀 I’m interested in getting back into code, developing better products and organisations, improving diversity & inclusion in Tech
 - 🌱 I’m currently learning how GitHub works so that I can create something
 - 💞️ I’m looking to collaborate on TBD
 - 📫 How to reach me...
